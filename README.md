@@ -53,8 +53,5 @@ This project showcases the use of Power BI for detailed sales and customer satis
 
 ---
 
-**License:**  
-This project is licensed under the MIT License.
-
 ## Contact
 Feel free to reach out to me on (https://www.linkedin.com/in/jyotirekha-das-015546113/) for any questions or collaborations!
